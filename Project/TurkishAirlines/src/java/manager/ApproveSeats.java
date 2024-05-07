@@ -29,8 +29,6 @@ public class ApproveSeats extends HttpServlet {
 
         Flight f = null;
         
-        String a = request.getParameter("flight_name");
-        
         for (int i = 0; i < flights.size(); i++)
         {
             if (flights.get(i).getFlightName().equals(request.getParameter("flight_name")))
