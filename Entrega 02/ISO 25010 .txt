@@ -1,10 +1,10 @@
 ISO 25010 
 
-Eficiência de Desempenho
+Eficiência de Desempenho 5/5
 - O sistema deve ser capaz de lidar com um grande volume de dados e transações simultâneas, garantindo que ele possa suportar o crescimento no número de usuários e na quantidade de reservas sem comprometer o desempenho.
 
-Segurança
+Segurança 5/5
 - Proteção dos dados dos usuários (Confidencialidade), integridade das transações (Integridade) e garantir que apenas usuários autenticados acessem o sistema (Autenticidade) são cruciais para manter a confiança dos usuários e proteger contra fraudes e acessos não autorizados.
 
-Confiabilidade
+Confiabilidade 4/5
 - O sistema deve estar sempre disponível, garantindo acesso contínuo para fazer reservas e consultas, minimizando qualquer tempo de inatividade que possa prejudicar a experiência do usuário e a operação da companhia aérea.
